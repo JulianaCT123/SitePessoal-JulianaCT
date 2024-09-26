@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+.menu {
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    padding-top: 22%;
+    padding-bottom: 22%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-inline: 17%;
+}
+
+.btn {
+    text-decoration: none;
+    color: #000;
+    background-color: blueviolet;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 10px;
+    flex: 1;
+    transition: .3s all ease;
+}
+
+.btn:hover {
+    flex: 2;
+    background-color: #fff;
+}

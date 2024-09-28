@@ -41,7 +41,11 @@ main {
 
 .perfil {
     background-color: aquamarine;
-    display: inline-flex;
+    padding: 10%; 
+}
+.conteudo {
+    display: flex;
+    justify-content: center;
 }
 
 .texto {

@@ -33,3 +33,17 @@ nav {
     flex: 2;
     background-color: #fff;
 }
+
+main {
+    margin-inline: auto;
+    max-width: 900px;
+}
+
+.perfil {
+    background-color: aquamarine;
+    display: inline-flex;
+}
+
+.texto {
+    display: block;
+}
